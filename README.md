@@ -1,1 +1,2 @@
-My first readme
+There are two brnaches 
+uodate_branch and origin
